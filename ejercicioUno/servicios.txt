@@ -1,0 +1,135 @@
+Se han iniciado estos servicios de Windows:
+
+   Acceso a datos de usuarios_256fe2
+   Adaptador de rendimiento de WMI
+   Administraci�n de autenticaci�n de Xbox Live
+   Administrador de conexiones de acceso remoto
+   Administrador de conexiones de Windows
+   Administrador de credenciales
+   Administrador de cuentas de seguridad
+   Administrador de cuentas web
+   Administrador de sesi�n local
+   Administrador de usuarios
+   Adquisici�n de im�genes de Windows (WIA)
+   Agente de conexi�n de red
+   Agente de detecci�n en segundo plano de DevQuery
+   Agente de eventos de tiempo
+   Agente de eventos del sistema
+   Aislamiento de claves CNG
+   Almacenamiento de datos de usuarios_256fe2
+   Aplicaci�n auxiliar de NetBIOS sobre TCP/IP
+   Aplicaci�n auxiliar IP
+   Asignador de extremos de RPC
+   Audio de Windows
+   Ayudante para el inicio de sesi�n de cuenta Microsoft
+   Centro de seguridad
+   Cliente de directiva de grupo
+   Cliente de seguimiento de v�nculos distribuidos
+   Cliente DHCP
+   Cliente DNS
+   Cola de impresi�n
+   Compilador de extremo de audio de Windows
+   Configuraci�n autom�tica de WLAN
+   Contenedor de Microsoft Passport
+   CoreMessaging
+   Critical Service for Lenovo Vantage
+   Datos de contactos_256fe2
+   Detecci�n de hardware shell
+   Detecci�n SSDP
+   DevicesFlow_256fe2
+   Dolby DAX API Service
+   Elevoc Control Service
+   Energ�a
+   Estaci�n de trabajo
+   Estado y experiencias optimizadas de Windows
+   Experiencias del usuario y telemetr�a asociadas
+   Firewall de Windows Defender
+   GameInput Service
+   Gaming Services
+   Gaming Services
+   Host de sistema de diagn�stico
+   Identidad de aplicaci�n
+   Informaci�n de la aplicaci�n
+   Iniciador de procesos de servidor DCOM
+   Instrumental de administraci�n de Windows
+   Intel(R) Audio Service
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) Dynamic Tuning Technology Telemetry Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Innovation Platform Framework Service
+   Intel(R) Management Engine WMI Provider Registration
+   Lenovo Fn and function keys service
+   Lenovo Notebook ITS Service
+   Llamada a procedimiento remoto (RPC)
+   McAfee Framework Host
+   McAfee WebAdvisor
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Motor de filtrado de base
+   Optimizaci�n de distribuci�n
+   Plug and Play
+   Programador de tareas
+   Realtek Audio Universal Service
+   Registro de eventos de Windows
+   Reproducci�n del Servicio administrador de sesiones_256fe2
+   Servicio Administrador de funcionalidad de acceso
+   Servicio Antivirus de Microsoft Defender
+   Servicio Asistente para la compatibilidad de programas
+   Servicio AVCTP
+   Servicio Cifrado de unidad BitLocker
+   Servicio de administraci�n de entrada de texto
+   Servicio de administraci�n de radio
+   Servicio de administrador de licencias de Windows
+   Servicio de almacenamiento
+   Servicio de asociaci�n de dispositivos
+   Servicio de cach� de fuentes de Windows
+   Servicio de compatibilidad con Bluetooth
+   Servicio de detecci�n autom�tica de proxy web WinHTTP
+   Servicio de directivas de diagn�stico
+   Servicio de directivas de pantallas
+   Servicio de geolocalizaci�n
+   Servicio de host HV
+   Servicio de implementaci�n de AppX (AppXSVC)
+   Servicio de infraestructura de tareas en segundo plano
+   Servicio de instalaci�n de dispositivos
+   Servicio de instalaci�n de Microsoft Store
+   Servicio de inventario y compatibilidad de proveedores
+   Servicio de lista de redes
+   Servicio de mejora de visualizaci�n
+   Servicio de notificaci�n de eventos de sistema
+   Servicio de perfil de usuario
+   Servicio de plataforma de dispositivos conectados
+   Servicio de protocolo de t�nel de sockets seguros
+   Servicio de puerta de enlace de audio de Bluetooth
+   Servicio de repositorio de estado
+   Servicio de soporte t�cnico de usuario de Bluetooth_256fe2
+   Servicio de transferencia inteligente en segundo plano (BITS)
+   Servicio de uso compartido de datos
+   Servicio de usuario de defensa contra amenazas web_256fe2
+   Servicio de usuario de notificaciones de inserci�n de Windows_256fe2
+   Servicio de usuario de plataforma de dispositivos conectados_256fe2
+   Servicio de usuario de Udk_256fe2
+   Servicio de usuario del portapapeles_256fe2
+   Servicio del sistema de notificaciones de inserci�n de Windows
+   Servicio Interfaz de almacenamiento en red
+   Servicio orquestador de actualizaciones
+   Servicio principal de Microsoft Defender
+   Servicio Seguridad de Windows
+   Servicio telef�nico
+   Servicios de cifrado
+   Servidor
+   Sincronizar host_256fe2
+   Sistema de eventos COM+
+   Steam Client Service
+   SysMain
+   System Interface Foundation Service
+   Temas
+   Ubicador de llamada a procedimiento remoto (RPC)
+   Universal Device Client Service
+   Uso de datos
+   Windows Search
+   WSAIFabricSvc
+
+Se ha completado el comando correctamente.
+
