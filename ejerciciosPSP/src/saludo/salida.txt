@@ -1,0 +1,16 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: EC06-024C
+
+ Directorio de C:\Users\jessi\git\Psp2526\ProcesosJava
+
+30/09/2025  16:18    <DIR>          .
+23/09/2025  16:13    <DIR>          ..
+23/09/2025  16:13               232 .classpath
+23/09/2025  16:13                 6 .gitignore
+23/09/2025  16:13               388 .project
+30/09/2025  16:18    <DIR>          bin
+30/09/2025  16:18                 0 error.txt
+30/09/2025  16:18                 0 salida.txt
+23/09/2025  16:13    <DIR>          src
+               5 archivos            626 bytes
+               4 dirs  479.640.875.008 bytes libres
