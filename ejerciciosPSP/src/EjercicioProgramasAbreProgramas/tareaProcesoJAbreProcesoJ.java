@@ -1,4 +1,4 @@
-package EjercicioProgramasProgramas;
+package EjercicioProgramasAbreProgramas;
 
 import java.io.BufferedReader;
 import java.io.File;
